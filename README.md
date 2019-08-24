@@ -1,2 +1,0 @@
-# taquicardia
-Taquicardia Ventricular
